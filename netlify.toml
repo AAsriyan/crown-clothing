@@ -1,0 +1,4 @@
+[build]
+base = "cc-app/"
+publish = "cc-app/build/"
+command = "yarn build"
